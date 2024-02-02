@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating cool things since 2017<br>📚 I'm currently learning english and music making<br>🎯 Goal: make music software programming easy<br>🎲 Fun fact: making music software programming easy is difficult</p>
+<p align="left">✨ Creating cool things since 2017<br>📚 I'm currently learning english and music making<br>🎯 Goal: make music software programming easy
 
 ###
 
