@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating cool things since 2017<br>📚 I'm currently learning english and music making<br>🎯 Goal: make music software programming easy
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
